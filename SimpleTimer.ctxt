@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SimpleTimer
+comment1.params=
+comment1.target=void\ mark()
+comment2.params=
+comment2.target=int\ millisElapsed()
+numComments=3

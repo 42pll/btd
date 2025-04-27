@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=
+comment1.target=Entity()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x\ y
+comment3.target=double\ distanceFrom(int,\ int)
+comment4.params=x\ y
+comment4.target=void\ move(int,\ int)
+comment5.params=
+comment5.target=void\ displayUpgrade()
+numComments=6
